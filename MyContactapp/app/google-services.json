@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "313867478011",
+    "project_id": "kotlin-login-ef24f",
+    "storage_bucket": "kotlin-login-ef24f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313867478011:android:abcefc324edecefb38615e",
+        "android_client_info": {
+          "package_name": "com.example.mycontactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313867478011-mjv36anve9d00sd3bcb9a4euk2dpha1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mycontactapp",
+            "certificate_hash": "a63b8803d74170504de307604929116484c618c5"
+          }
+        },
+        {
+          "client_id": "313867478011-t2prrq35qttqtb64qd1j0c9tnk15fkec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsmAoWkVBwLhegWew2nl3-qydQ6Du8jbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313867478011-t2prrq35qttqtb64qd1j0c9tnk15fkec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

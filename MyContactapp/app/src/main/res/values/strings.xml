@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyContactapp</string>
+    <string name="no_account">Do not have an account? <b>SignUp</b></string>
+</resources>
